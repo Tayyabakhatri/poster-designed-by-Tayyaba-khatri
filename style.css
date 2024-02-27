@@ -1,0 +1,96 @@
+@font-face{
+    font-family:'Aartrix' ;
+    src: url(fonts/AatrixOCRAEXT.TTF);
+}
+@font-face {
+    font-family: tahoma;
+    src: url(fonts/tahoma.ttf);
+}
+body{
+    background-color: red;
+}
+.main{
+   width: 800px;
+   height: vh;
+   background-color: white;
+   
+   padding-right: 50px;
+   
+   font-size:larger ;
+   padding-top: 20px;
+   
+   
+ 
+}
+.navbar{
+   
+    display: flex;
+    width: 107%;
+    height: 25px;
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+    justify-content: space-around;
+    font-family: 'tahoma';
+  
+
+
+}
+.heading{
+    word-spacing: 30px;
+    font-size: 70px;
+    text-align: center;
+    font-weight: bolder;
+    line-height: none;
+    font-family:'Aartrix';
+    margin-bottom:0% ;
+    margin-top: 20px;
+}
+.ipsum{
+    font-size: smaller;
+    word-spacing: normal;
+    font-weight: normal;
+    text-align: left;
+    margin-top: 10px;
+    align-content: center;
+}
+img{
+    width: 107%;
+    height: 300px;
+    
+}
+.image-2{
+    width: 200px;
+    height: 200px;
+   
+    
+}
+figcaption{
+  font-size: 15px;  
+}
+
+
+  
+
+.image-3{ 
+    width: 200px;
+    height: 200px;
+}
+.image-4{ 
+    width: 200px;
+    height: 200px;
+}
+.image-5{
+    width: 200px;
+    height: 200px;
+}
+   .image-6{
+    width: 200px;
+    height: 200px;
+   }  
+   .image-7{
+    width: 200px;
+    height: 200px;
+
+   }
+  
